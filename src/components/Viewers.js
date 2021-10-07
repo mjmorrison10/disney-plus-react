@@ -19,7 +19,6 @@ function Viewers() {
       <Wrap>
         <img src="/images/viewers-starwars.png" />
       </Wrap>
-      Viewers
     </Container>
   );
 }
